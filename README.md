@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://discord.com/users/252529552440426507" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/337620156236955670?idle" alt="Discord Presence" align="center">
+      <img src="https://lanyard-profile-readme.vercel.app/api/252529552440426507?dnd" alt="Discord Presence" align="center">
    </a>
 </p>
 # 👋 Hi, I’m @Flasbing
