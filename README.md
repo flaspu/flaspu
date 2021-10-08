@@ -3,6 +3,8 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/252529552440426507?dnd" alt="Discord Presence" align="center">
    </a>
 </p>
+
+
 # 👋 Hi, I’m @Flasbing
 - 👀 I’m currently learning the script version of Java and I'm interested in game & web developing.
 - 📫 You can reach me on discord as flasbing#8339 or just email me at flasbing@gmail.com.
