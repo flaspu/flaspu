@@ -18,3 +18,5 @@
 - Scripting: LUA, Python3, Bash
 - Datastorages: MongoDB, PostgresSQL, MySQL
 - Others: Linux (CentOS, Ubuntu, Debian).
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Flasbing&show_icons=true)
