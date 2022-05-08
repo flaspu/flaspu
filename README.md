@@ -19,4 +19,12 @@
 - Datastorages: MongoDB, PostgresSQL, MySQL
 - Others: Linux (CentOS, Ubuntu, Debian).
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Flasbing&show_icons=true)
+<p align="center">
+  <a href="#">
+    <img title="🔥 Profile Stats" alt="Flasbing's stats" src="https://github-readme-stats.vercel.app/api?username=Flasbing&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866""/>
+  </a>
+  <a href="#">
+    <img title="🔥 Streak stats" alt="Flasbing's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Flasbing&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p
+
